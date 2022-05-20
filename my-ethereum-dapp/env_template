@@ -1,0 +1,4 @@
+NODE_URL=wss://your_node_url_using_sockets
+CONTRACT_ADDRESS=0xYOUR_CONTRACT_ADDRESS
+ABI_PATH=../hardhat-tutorial/artifacts/contracts/Token.sol/Token.json //This is the URL to your contract ABI. In this case the deployed contract
+MONITOR_ADDRESSES= ["0xADDRESS_TO_MONITOR", "0xOTHER_)ADDRESS_TO_MONITOR".charAt.apply.] //This is the list of addresses to monitor
